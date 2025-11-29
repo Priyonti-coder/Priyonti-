@@ -1,6 +1,9 @@
 # Write a ja program to create a class called BankAccount with instance variable accountNumber and 
 balance and static variable bankName and interestRate.Provide static methods toset and  get static   
-variables. Create several BankAccount object and print their details along with the static variables.package Static;         
+variables. Create several BankAccount object and print their details along with the static variables.
+
+package Static;
+
 public class BankAccount {
 
     private int accountNumber;
